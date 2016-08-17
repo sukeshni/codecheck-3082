@@ -1,0 +1,24 @@
+{
+  "name": "challenge-github-account",
+  "version": "1.0.0",
+  "description": "Create your GitHub Account!",
+  "scripts": {
+    "test": "mocha specifications/github.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givery-technology/challenge-github-account.git"
+  },
+  "keywords": [],
+  "author": "Givery, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/givery-technology/challenge-github-account/issues"
+  },
+  "homepage": "https://github.com/givery-technology/challenge-github-account#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0"
+  }
+}
